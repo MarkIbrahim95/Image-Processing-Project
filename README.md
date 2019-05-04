@@ -1,3 +1,6 @@
 # Image Processing Project
 ## Team Members: 
-### Mark Ibrahim,Diana Joseph,Mostafa Haggag,Noureddin Gamal
+### 1.Mark Ibrahim
+### 2.Diana Joseph
+### 3.Mostafa Haggag
+### 4.Noureddin Gamal
