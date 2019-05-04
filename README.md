@@ -1,4 +1,4 @@
-# Image Processing Project
+# Image Processing Project (Describe my photo)
  Mechatronics Major
 
 ## Demonstration Video:
